@@ -1,0 +1,2 @@
+module hinata_blog {
+}
